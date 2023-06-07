@@ -1,0 +1,3 @@
+1- create a package and follow the reverse domain name convention
+2- create a class in side the package with main method
+3- write click on the class with main method and "Run As" -> "Java Application" 
